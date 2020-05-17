@@ -1,0 +1,4 @@
+- npm run build
+- npm i
+- npm run start:dev (To check if everything is running without errors)
+- npm run start
